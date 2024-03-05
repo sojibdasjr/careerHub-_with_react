@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co/dLPBdq7/1.jpg",
+    "job_title": "Software Engineer",
+    "company_name": "Tech Solutions Inc.",
+    "job_time": "Full time",
+    "job_time2": "Remote",
+    "salary": "$80,000 - $100,000",
+    "description": "We are seeking a talented Software Engineer to join our team.",
+    "responsibility": [
+      "Develop high-quality software design and architecture",
+      "Identify, prioritize and execute tasks in the software development lifecycle",
+      "Conduct software analysis, programming, testing, and debugging",
+      "Collaborate with internal teams to fix and improve software"
+    ],
+    "education_requirements": "Bachelor's degree in Computer Science or related field",
+    "experiences": "2+ years of experience in software development",
+    "contact": {
+      "phone": "+1 123-456-7890",
+      "email": "info@techsolutions.com",
+      "address": "123 Main St, City, Country"
+    }
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co/dKfKyHy/2.jpg",
+    "job_title": "Marketing Manager",
+    "company_name": "Global Marketing Agency",
+    "job_time": "Remote",
+    "job_time2": "Full time",
+    "salary": "$60,000 - $80,000",
+    "description": "We are looking for an experienced Marketing Manager to join our team remotely.",
+    "responsibility": [
+      "Develop marketing strategies and campaigns",
+      "Conduct market research and analysis",
+      "Manage social media channels and online presence",
+      "Coordinate with internal and external teams to execute marketing plans"
+    ],
+    "education_requirements": "Bachelor's degree in Marketing or related field",
+    "experiences": "3+ years of experience in marketing",
+    "contact": {
+      "phone": "+1 987-654-3210",
+      "email": "hr@globalmarketing.com",
+      "address": "456 Elm St, City, Country"
+    }
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co/BBmy030/3.jpg",
+    "job_title": "Data Scientist",
+    "company_name": "Data Analytics Ltd.",
+    "job_time": "Full time",
+    "job_time2": "Remote",
+    "salary": "$90,000 - $110,000",
+    "description": "We are seeking a skilled Data Scientist to analyze large datasets and generate insights.",
+    "responsibility": [
+      "Collect and analyze data to generate actionable insights",
+      "Develop predictive models and algorithms",
+      "Collaborate with cross-functional teams to implement data-driven solutions",
+      "Communicate findings to stakeholders through reports and presentations"
+    ],
+    "education_requirements": "Master's degree in Statistics, Computer Science, or related field",
+    "experiences": "3+ years of experience in data analysis and machine learning",
+    "contact": {
+      "phone": "+1 555-123-4567",
+      "email": "careers@dataanalytics.com",
+      "address": "789 Oak St, City, Country"
+    }
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co/L5d9ZSh/4.jpg",
+    "job_title": "Graphic Designer",
+    "company_name": "Creative Studios LLC",
+    "job_time": "Full time",
+    "job_time2": "Remote",
+    "salary": "$50,000 - $70,000",
+    "description": "We are hiring a creative Graphic Designer to develop visual concepts and designs.",
+    "responsibility": [
+      "Create visual concepts and designs for various projects",
+      "Collaborate with clients and stakeholders to understand design requirements",
+      "Produce high-quality graphics, illustrations, and layouts",
+      "Stay updated with industry trends and design software"
+    ],
+    "education_requirements": "Bachelor's degree in Graphic Design or related field",
+    "experiences": "2+ years of experience in graphic design",
+    "contact": {
+      "phone": "+1 888-765-4321",
+      "email": "design@creativestudios.com",
+      "address": "234 Maple St, City, Country"
+    }
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co/h8nq4Ry/5.jpg",
+    "job_title": "Financial Analyst",
+    "company_name": "Finance Plus Inc.",
+    "job_time": "Full time",
+    "job_time2": "Remote",
+    "salary": "$70,000 - $90,000",
+    "description": "We are looking for a Financial Analyst to provide financial planning and analysis.",
+    "responsibility": [
+      "Analyze financial data and trends to provide insights and recommendations",
+      "Develop financial models and forecasts",
+      "Prepare reports and presentations for management",
+      "Collaborate with teams to support strategic decision-making"
+    ],
+    "education_requirements": "Bachelor's degree in Finance, Accounting, or related field",
+    "experiences": "2+ years of experience in financial analysis",
+    "contact": {
+      "phone": "+1 333-456-7890",
+      "email": "jobs@financeplus.com",
+      "address": "345 Oak St, City, Country"
+    }
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co/6RT64C8/6.jpg",
+    "job_title": "Human Resources Manager",
+    "company_name": "HR Solutions Ltd.",
+    "job_time": "Full time",
+    "job_time2": "Remote",
+    "salary": "$80,000 - $100,000",
+    "description": "We are hiring an experienced Human Resources Manager to lead HR initiatives.",
+    "responsibility": [
+      "Develop and implement HR strategies and policies",
+      "Oversee recruitment, onboarding, and performance management processes",
+      "Manage employee relations and conflict resolution",
+      "Ensure compliance with labor laws and regulations"
+    ],
+    "education_requirements": "Bachelor's degree in Human Resources Management or related field",
+    "experiences": "5+ years of experience in HR management",
+    "contact": {
+      "phone": "+1 444-567-8901",
+      "email": "hr@hrsolutions.com",
+      "address": "456 Pine St, City, Country"
+    }
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co/f1qmWgX/7.jpg",
+    "job_title": "Product Manager",
+    "company_name": "Tech Innovations Co.",
+    "job_time": "Full time",
+    "job_time2": "Remote",
+    "salary": "$90,000 - $120,000",
+    "description": "We are seeking a Product Manager to lead the development of innovative products.",
+    "responsibility": [
+      "Define product vision, strategy, and roadmap",
+      "Gather and prioritize product requirements",
+      "Work closely with cross-functional teams to deliver high-quality products",
+      "Analyze market trends and competition"
+    ],
+    "education_requirements": "Bachelor's degree in Business, Engineering, or related field",
+    "experiences": "3+ years of experience in product management",
+    "contact": {
+      "phone": "+1 777-890-1234",
+      "email": "careers@techinnovations.com",
+      "address": "567 Elm St, City, Country"
+    }
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co/pjpXszJ/8.jpg",
+    "job_title": "Customer Service Representative",
+    "company_name": "Customer Care Solutions Inc.",
+    "job_time": "Full time",
+    "job_time2": "Remote",
+    "salary": "$35,000 - $45,000",
+    "description": "We are hiring a Customer Service Representative to handle customer inquiries and issues.",
+    "responsibility": [
+      "Respond to customer inquiries via phone, email, and chat",
+      "Resolve customer complaints and issues",
+      "Provide product information and assistance",
+      "Maintain accurate records of interactions with customers"
+    ],
+    "education_requirements": "High school diploma or equivalent",
+    "experiences": "1+ year of experience in customer service",
+    "contact": {
+      "phone": "+1 999-234-5678",
+      "email": "careers@customercare.com",
+      "address": "678 Walnut St, City, Country"
+    }
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co/CQ07FBt/9.jpg",
+    "job_title": "Sales Manager",
+    "company_name": "Sales Force Solutions Ltd.",
+    "job_time": "Full time",
+    "job_time2": "Remote",
+    "salary": "$100,000 - $130,000",
+    "description": "We are seeking a Sales Manager to lead our sales team and drive revenue growth.",
+    "responsibility": [
+      "Develop and implement sales strategies and plans",
+      "Manage and motivate the sales team to achieve targets",
+      "Build and maintain relationships with clients and partners",
+      "Analyze sales data and trends to identify opportunities"
+    ],
+    "education_requirements": "Bachelor's degree in Business or related field",
+    "experiences": "5+ years of experience in sales",
+    "contact": {
+      "phone": "+1 666-345-6789",
+      "email": "jobs@salesforce.com",
+      "address": "789 Maple St, City, Country"
+    }
+  },
+  {
+    "id": 10,
+    "image": "https://i.ibb.co/4KbBYny/10.jpg",
+    "job_title": "Quality Assurance Analyst",
+    "company_name": "QualityTech Inc.",
+    "job_time": "Full time",
+    "job_time2": "Remote",
+    "salary": "$60,000 - $80,000",
+    "description": "We are looking for a QA Analyst to ensure the quality of our software products.",
+    "responsibility": [
+      "Develop and execute test plans and procedures",
+      "Identify and report software defects and issues",
+      "Collaborate with development teams to resolve issues",
+      "Ensure compliance with quality standards and regulations"
+    ],
+    "education_requirements": "Bachelor's degree in Computer Science or related field",
+    "experiences": "2+ years of experience in software testing",
+    "contact": {
+      "phone": "+1 123-456-7890",
+      "email": "careers@qualitytech.com",
+      "address": "890 Oak St, City, Country"
+    }
+  }
+]
