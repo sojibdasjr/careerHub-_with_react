@@ -13,7 +13,7 @@ const SmallHeader = () => {
           <span className="bg-sky-400 p-0.5 rounded-e">hub</span>
         </span>
       </h1>
-      <div className="flex gap-2">
+      <div className="md:flex gap-2 hidden">
         <a href="#" className="flex items-center">
           <SiMinutemailer className="text-white" />{" "}
           <small className="text-white">contact@careerhub.com</small>
