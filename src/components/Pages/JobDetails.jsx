@@ -7,6 +7,9 @@ import { FaSquarePhone } from "react-icons/fa6";
 import { SiMinutemailer } from "react-icons/si";
 import { IoLocationSharp } from "react-icons/io5";
 import { HiBuildingOffice2 } from "react-icons/hi2";
+import { ToastContainer, toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
+import { saveJobApplication } from "../utility/LocalStroage";
 
 const JobDetails = () => {
   const jobs = useLoaderData();
@@ -24,9 +27,15 @@ const JobDetails = () => {
     contact,
   } = job;
 
+  //handle apply button
+  const handleApply = () => {
+    saveJobApplication(id);
+    toast.success("Apply Job Successfully");
+  };
+
   return (
     <div className="bg-white text-black">
-      <h1 className="  text-center font-bold text-2xl backgroundImage bg-slate-100">
+      <h1 className="   text-center font-bold text-2xl backgroundImage bg-green-50 ">
         Job Details
       </h1>
 
@@ -102,11 +111,15 @@ const JobDetails = () => {
               </p>
             </span>
             <Link>
-              <button className="w-full p-2 focus:bg-green-600 rounded  my-2 bg-black text-white">
+              <button
+                onClick={handleApply}
+                className="w-full p-2 focus:bg-green-600 rounded  my-2 bg-black text-white"
+              >
                 Apply Now
               </button>
             </Link>
           </div>
+          <ToastContainer />
         </div>
       </div>
     </div>

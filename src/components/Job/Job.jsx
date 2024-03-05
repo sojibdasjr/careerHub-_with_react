@@ -30,7 +30,7 @@ const Job = ({ job }) => {
           {job_time2}
         </button>
       </div>
-      <div className="md:flex gap-6 ">
+      <div className="md:flex gap-6 text-black ">
         <div className="flex items-center gap-1 my-2">
           <IoLocationSharp />
           <small>{contact.address}</small>

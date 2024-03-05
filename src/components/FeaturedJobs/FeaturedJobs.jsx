@@ -11,7 +11,7 @@ const FeaturedJobs = () => {
       .then((data) => setJobs(data));
   }, []);
   return (
-    <div className="bg-white pt-8">
+    <div className="bg-slate-50 pt-8">
       <div className="text-center text-black  py-2">
         <h1 className="text-5xl">Featured Jobs</h1>
         <p>
