@@ -1,6 +1,7 @@
 import React from "react";
 import { IoLocationSharp } from "react-icons/io5";
 import { RiMoneyCnyCircleLine } from "react-icons/ri";
+import { Link } from "react-router-dom";
 
 const Job = ({ job }) => {
   const {
@@ -40,9 +41,11 @@ const Job = ({ job }) => {
         </div>
       </div>
 
-      <button className="p-2 my-3 bg-black focus:bg-green-500 text-white rounded">
-        View Details
-      </button>
+      <Link to={`/job/${id}`}>
+        <button className="p-2 my-3 bg-black focus:bg-green-500 text-white rounded">
+          View Details
+        </button>
+      </Link>
     </div>
   );
 };
