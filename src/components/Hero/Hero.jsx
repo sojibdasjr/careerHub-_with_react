@@ -15,7 +15,7 @@ const Hero = () => {
             need. Its your future. Come find it. Manage all your job application
             from start to finish.
           </p>
-          <button className="p-2 my-2 font-bold bg-black text-white rounded">
+          <button className="p-2 px-10 my-2 font-bold bg-black text-white rounded">
             Get Start
           </button>
         </div>
