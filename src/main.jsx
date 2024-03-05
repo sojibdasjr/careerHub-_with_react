@@ -6,11 +6,15 @@ import Root from "./components/Root/Root";
 import Home from "./components/Pages/Home";
 import Jobs from "./components/Pages/Jobs";
 import AppliedJob from "./components/Pages/AppliedJob";
+import Blogs from "./components/Pages/Blogs";
+import Statistics from "./components/Pages/Statistics";
+import ErrorPage from "./components/Pages/ErrorPage";
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <Root />,
+    errorElement: <ErrorPage />,
     children: [
       {
         path: "/",
@@ -23,6 +27,14 @@ const router = createBrowserRouter([
       {
         path: "/applied",
         element: <AppliedJob />,
+      },
+      {
+        path: "/blogs",
+        element: <Blogs />,
+      },
+      {
+        path: "/statistics",
+        element: <Statistics />,
       },
     ],
   },
