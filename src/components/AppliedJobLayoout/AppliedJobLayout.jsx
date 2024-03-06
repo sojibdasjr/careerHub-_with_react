@@ -9,13 +9,13 @@ const AppliedJobLayout = ({ job }) => {
       <div className=" grid-cols-1 md:max-w-4xl md:mx-auto  border my-2  border-black md:flex justify-between items-center p-2 mx-2">
         <div className="text-black md:flex gap-2">
           <img
-            className="md:w-44 border-green-200 border"
+            className="md:w-44 border-green-200 border "
             src={job.image}
             alt=""
           />
 
           <div>
-            <h1 className="text-3xl font-bold">{job.job_title}</h1>
+            <h1 className="text-3xl font-bold my-2">{job.job_title}</h1>
             <h1 className="opacity-50">{job.company_name}</h1>
             <div>
               <button className="p-1 border border-black">

@@ -23,10 +23,14 @@ const Header = () => {
   );
   return (
     <div className="bg-green-100">
-      <div className="navbar  max-w-7xl mx-auto">
-        <div className="navbar-start">
-          <div className="dropdown">
-            <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
+      <div className="navbar max-w-7xl mx-auto py-2 ">
+        <div className="md:navbar-start flex justify-between gap-20">
+          <div className="dropdown ">
+            <div
+              tabIndex={0}
+              role="button"
+              className="btn btn-ghost   lg:hidden"
+            >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 className="h-5 w-5"
@@ -50,17 +54,19 @@ const Header = () => {
             </ul>
           </div>
 
-          <Link to="/">
-            {" "}
-            <span>
-              <span className="bg-green-400 p-2 text-white rounded-s">
-                career
+          <div>
+            <Link to="/">
+              {" "}
+              <span>
+                <span className="bg-green-400 p-2 text-white rounded-s">
+                  career
+                </span>
+                <span className="bg-black p-2 text-white rounded-e">hub</span>
               </span>
-              <span className="bg-black p-2 text-white rounded-e">hub</span>
-            </span>
-          </Link>
+            </Link>
+          </div>
         </div>
-        <div className="navbar-end hidden lg:flex">
+        <div className="navbar-end hidden lg:flex ">
           <ul className="menu menu-horizontal px-1 text-black">{Links}</ul>
         </div>
       </div>
