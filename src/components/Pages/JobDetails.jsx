@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { Link, useLoaderData, useParams } from "react-router-dom";
 import "./Jobdetails.css";
 import { RiMoneyCnyCircleLine } from "react-icons/ri";
@@ -9,7 +9,10 @@ import { IoLocationSharp } from "react-icons/io5";
 import { HiBuildingOffice2 } from "react-icons/hi2";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
-import { saveJobApplication } from "../utility/LocalStroage";
+import {
+  getStoredApplication,
+  saveJobApplication,
+} from "../utility/LocalStroage";
 
 const JobDetails = () => {
   const jobs = useLoaderData();

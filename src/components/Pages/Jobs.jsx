@@ -1,10 +1,11 @@
 import React from "react";
+import FeaturedJobs from "../FeaturedJobs/FeaturedJobs";
 
 const Jobs = () => {
   return (
-    <div>
-      <h1>This is jobs</h1>
-    </div>
+    <>
+      <FeaturedJobs />
+    </>
   );
 };
 
