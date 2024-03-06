@@ -29,7 +29,7 @@ const JobDetails = () => {
 
   //handle apply button
   const handleApply = () => {
-    saveJobApplication(id);
+    saveJobApplication(idInt);
     toast.success("Apply Job Successfully");
   };
 

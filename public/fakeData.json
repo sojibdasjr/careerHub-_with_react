@@ -5,7 +5,7 @@
     "job_title": "Software Engineer",
     "company_name": "Tech Solutions Inc.",
     "job_time": "Full time",
-    "job_time2": "Remote",
+    "remot_or_onsite": "Remote",
     "salary": "$80,000 - $100,000",
     "description": "We are seeking a talented Software Engineer to join our team.",
     "responsibility": [
@@ -27,8 +27,8 @@
     "image": "https://i.ibb.co/dKfKyHy/2.jpg",
     "job_title": "Marketing Manager",
     "company_name": "Global Marketing Agency",
-    "job_time": "Remote",
-    "job_time2": "Full time",
+    "remot_or_onsite": "Remote",
+    "job_time": "Full time",
     "salary": "$60,000 - $80,000",
     "description": "We are looking for an experienced Marketing Manager to join our team remotely.",
     "responsibility": [
@@ -51,7 +51,7 @@
     "job_title": "Data Scientist",
     "company_name": "Data Analytics Ltd.",
     "job_time": "Full time",
-    "job_time2": "Remote",
+    "remot_or_onsite": "Onsite",
     "salary": "$90,000 - $110,000",
     "description": "We are seeking a skilled Data Scientist to analyze large datasets and generate insights.",
     "responsibility": [
@@ -74,7 +74,7 @@
     "job_title": "Graphic Designer",
     "company_name": "Creative Studios LLC",
     "job_time": "Full time",
-    "job_time2": "Remote",
+    "remot_or_onsite": "Onsite",
     "salary": "$50,000 - $70,000",
     "description": "We are hiring a creative Graphic Designer to develop visual concepts and designs.",
     "responsibility": [
@@ -97,7 +97,7 @@
     "job_title": "Financial Analyst",
     "company_name": "Finance Plus Inc.",
     "job_time": "Full time",
-    "job_time2": "Remote",
+    "remot_or_onsite": "Remote",
     "salary": "$70,000 - $90,000",
     "description": "We are looking for a Financial Analyst to provide financial planning and analysis.",
     "responsibility": [
@@ -120,7 +120,7 @@
     "job_title": "Human Resources Manager",
     "company_name": "HR Solutions Ltd.",
     "job_time": "Full time",
-    "job_time2": "Remote",
+    "remot_or_onsite": "Onsite",
     "salary": "$80,000 - $100,000",
     "description": "We are hiring an experienced Human Resources Manager to lead HR initiatives.",
     "responsibility": [
@@ -143,7 +143,7 @@
     "job_title": "Product Manager",
     "company_name": "Tech Innovations Co.",
     "job_time": "Full time",
-    "job_time2": "Remote",
+    "remot_or_onsite": "Remote",
     "salary": "$90,000 - $120,000",
     "description": "We are seeking a Product Manager to lead the development of innovative products.",
     "responsibility": [
@@ -166,7 +166,7 @@
     "job_title": "Customer Service Representative",
     "company_name": "Customer Care Solutions Inc.",
     "job_time": "Full time",
-    "job_time2": "Remote",
+    "remot_or_onsite": "Remote",
     "salary": "$35,000 - $45,000",
     "description": "We are hiring a Customer Service Representative to handle customer inquiries and issues.",
     "responsibility": [
@@ -189,7 +189,7 @@
     "job_title": "Sales Manager",
     "company_name": "Sales Force Solutions Ltd.",
     "job_time": "Full time",
-    "job_time2": "Remote",
+    "remot_or_onsite": "Onsite",
     "salary": "$100,000 - $130,000",
     "description": "We are seeking a Sales Manager to lead our sales team and drive revenue growth.",
     "responsibility": [
@@ -212,7 +212,7 @@
     "job_title": "Quality Assurance Analyst",
     "company_name": "QualityTech Inc.",
     "job_time": "Full time",
-    "job_time2": "Remote",
+    "remot_or_onsite": "Remote",
     "salary": "$60,000 - $80,000",
     "description": "We are looking for a QA Analyst to ensure the quality of our software products.",
     "responsibility": [

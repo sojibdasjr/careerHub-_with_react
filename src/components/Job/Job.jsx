@@ -11,7 +11,7 @@ const Job = ({ job }) => {
     company_name,
     contact,
     job_time,
-    job_time2,
+    remot_or_onsite,
     salary,
   } = job;
 
@@ -27,7 +27,7 @@ const Job = ({ job }) => {
           {job_time}
         </button>
         <button className="p-1 border border-black text-black text-sm my-1 ms-4 ">
-          {job_time2}
+          {remot_or_onsite}
         </button>
       </div>
       <div className="md:flex gap-6 text-black ">
