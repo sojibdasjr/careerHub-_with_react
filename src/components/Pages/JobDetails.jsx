@@ -33,7 +33,7 @@ const JobDetails = () => {
   //handle apply button
   const handleApply = () => {
     saveJobApplication(idInt);
-    toast.success("Apply Job Successfully");
+    toast.success("Job Applyed Successfully");
   };
 
   return (
