@@ -36,8 +36,6 @@ const JobDetails = () => {
     toast.success("Job Applyed Successfully");
   };
 
-  // comment
-
   return (
     <div className="bg-white text-black">
       <h1 className="   text-center font-bold text-2xl backgroundImage bg-green-50 ">
