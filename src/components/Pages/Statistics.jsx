@@ -2,8 +2,23 @@ import React from "react";
 
 const Statistics = () => {
   return (
-    <div>
-      <h1>Statistics</h1>
+    <div className="bg-white py-10">
+      <div className="flex justify-center items-center      ">
+        <button
+          className=" text-center text-yellow-400  
+      bg-black 
+      py-2 px-5  rounded
+
+      hover:bg-yellow-600
+      hover:text-black
+      uppercase
+      duration-300
+      shadow-md
+      "
+        >
+          Statistics
+        </button>
+      </div>
     </div>
   );
 };
