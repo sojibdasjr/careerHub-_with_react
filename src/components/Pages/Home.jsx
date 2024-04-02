@@ -7,8 +7,11 @@ import FeaturedJobs from "../FeaturedJobs/FeaturedJobs";
 const Home = () => {
   return (
     <>
+      {/* Hero comonponents */}
       <Hero />
+      {/* JobcategoryList comonponents */}
       <JobCategoryList />
+      {/* FeaturedJobs comonponents */}
       <FeaturedJobs />
     </>
   );
