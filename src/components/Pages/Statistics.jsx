@@ -11,7 +11,7 @@ const Statistics = () => {
 
       hover:bg-yellow-600
       hover:text-black
-      uppercase
+  
       duration-300
       "
         >
