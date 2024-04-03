@@ -13,7 +13,6 @@ const Statistics = () => {
       hover:text-black
       uppercase
       duration-300
-      shadow-md
       "
         >
           Statistics
