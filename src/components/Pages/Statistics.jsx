@@ -28,7 +28,7 @@ const Statistics = () => {
       duration-300
       "
         >
-          Back
+          Forwoaed
         </button>
       </div>
     </div>
