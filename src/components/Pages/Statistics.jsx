@@ -17,19 +17,6 @@ const Statistics = () => {
         >
           Statistics
         </button>
-        <button
-          className=" text-center text-yellow-400  
-      bg-black 
-      py-2 px-5  rounded
-
-      hover:bg-yellow-600
-      hover:text-black
-  
-      duration-300
-      "
-        >
-          Forwoaed
-        </button>
       </div>
     </div>
   );
